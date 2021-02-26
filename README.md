@@ -2,6 +2,7 @@
  server receives the data file from the clients, and turn back to them after modifying the data according to the lexicon file.
 # objective
  A client will connect to the server over a socket and upload a user-supplied text file. The server will have a lexicon of commonly misspelled words that it will read from a file upon startup. The server will scan the user-supplied text file uploaded by the client and check each word against the lexicon. Any word in the user-supplied text file found in the lexicon will be surrounded by brackets. When the server is finished identifying words, the text file will be returned to the client and the connection will be closed.
+ 
  For more information please check the 'Lab1.pdf' file
 # how to run
 1.	Open ‘server’ folder, then open ‘server.py’ with pycharm. Run it.
