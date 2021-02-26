@@ -12,5 +12,6 @@
 6.	Click the ‘kill button on the server GUI to stop listening. Then click ‘exit’ button to close the window.
 
 # Screenshot examples
-![alt text](https://github.com/Holipori/server-clients/blob/main/images/server.png?raw=true&s=200)
-![alt text](https://github.com/Holipori/server-clients/blob/main/images/client.png?raw=true&s=200)
+<img src="https://github.com/Holipori/server-clients/blob/main/images/server.png?raw" width="100">
+![alt text](https://github.com/Holipori/server-clients/blob/main/images/server.png?raw=true&s=100)
+![alt text](https://github.com/Holipori/server-clients/blob/main/images/client.png?raw=true&s=100)
